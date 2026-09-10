@@ -1,4 +1,3 @@
-# Contact-Management--System
 # Contact Management System
 
 A Python-based CLI application to perform fundamental CRUD (Create, Read, Update, Delete) operations for contact management.
